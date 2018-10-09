@@ -1,8 +1,3 @@
-PROCESS-NAME,storedownloadd,force-remote-dns
-USER-AGENT,com.apple.appstored*,force-remote-dns
-DOMAIN-SUFFIX,icloud.com,force-remote-dns
-DOMAIN-SUFFIX,icloud-content.com,force-remote-dns
-DOMAIN-SUFFIX,mzstatic.com,force-remote-dns
-DOMAIN-SUFFIX,aaplimg.com,force-remote-dns
-DOMAIN-SUFFIX,cdn-apple.com,force-remote-dns
-DOMAIN-SUFFIX,apple.com
+DOMAIN,reserve-prime.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
