@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archives.gov
+DOMAIN-SUFFIX,asiamiles.com,Proxy
 DOMAIN-SUFFIX,appdownloader.net
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkfind.com
@@ -101,6 +102,8 @@ DOMAIN-SUFFIX,logmein.com
 ## M
 DOMAIN-SUFFIX,mp3buscador.com
 DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,live.net,Proxy
+DOMAIN-SUFFIX,microsoft.com,Proxy
 DOMAIN-SUFFIX,mlssoccer.com
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,nih.gov
