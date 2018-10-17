@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,edgecastcdn.net
 ## F
 DOMAIN-SUFFIX,facebook.com,force-remote-dns
 DOMAIN-SUFFIX,facebook.net,force-remote-dns
+DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,fbcdn.net,force-remote-dns
 DOMAIN-SUFFIX,freeopenproxy.com
 DOMAIN-SUFFIX,fzlm.net
