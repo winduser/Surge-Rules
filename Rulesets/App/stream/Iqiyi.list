@@ -1,0 +1,5 @@
+# IQIYI
+#PROCESS-NAME,爱奇艺,CHINA,force-remote-dns,enhanced-mode
+DOMAIN-SUFFIX,iqiyipic.com,DIRECT
+DOMAIN-KEYWORD,qiyi,CHINA,force-remote-dns,enhanced-mode
+DOMAIN-SUFFIX,qy.net,CHINA,force-remote-dns,enhanced-mode

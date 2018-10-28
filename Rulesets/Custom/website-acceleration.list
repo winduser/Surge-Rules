@@ -1,0 +1,6 @@
+## QQ-MAIL
+DOMAIN-SUFFIX,qqmail.com,ASIA,force-remote-dns
+DOMAIN-SUFFIX,mail.qq.com,ASIA,force-remote-dns
+
+## ZIMUXIA
+DOMAIN-SUFFIX,zimuxia.cn,ASIA,force-remote-dns
