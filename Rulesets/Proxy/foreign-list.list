@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,edgecastcdn.net
 ## F
 DOMAIN-SUFFIX,facebook.com,force-remote-dns
 DOMAIN-SUFFIX,facebook.net,force-remote-dns
+DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,fbcdn.net,force-remote-dns
 DOMAIN-SUFFIX,freeopenproxy.com
 DOMAIN-SUFFIX,fzlm.net
@@ -84,7 +85,6 @@ DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,howtoforge.com
 DOMAIN-SUFFIX,hootsuite.com
 DOMAIN-SUFFIX,homedepot.com
-DOMAIN-SUFFIX,hulu.com
 
 ## I
 DOMAIN-SUFFIX,instagram.com
@@ -117,7 +117,6 @@ DOMAIN-SUFFIX,nrk.no
 DOMAIN-SUFFIX,newipnow.com
 DOMAIN-SUFFIX,ndr.de
 DOMAIN-SUFFIX,nasa.gov
-DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nintendo.com
 
 ## O
