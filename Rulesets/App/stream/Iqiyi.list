@@ -1,0 +1,4 @@
+# IQIYI
+#PROCESS-NAME,爱奇艺,force-remote-dns,enhanced-mode
+DOMAIN-KEYWORD,qiyi,force-remote-dns,enhanced-mode
+DOMAIN-SUFFIX,qy.net,force-remote-dns,enhanced-mode
