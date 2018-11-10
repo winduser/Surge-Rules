@@ -68,7 +68,9 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,office.com
 DOMAIN-KEYWORD,officecdn
+DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pstatp.com
@@ -76,6 +78,7 @@ DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qdmm.com
 DOMAIN-SUFFIX,qhimg.com
+DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qihucdn.com
 DOMAIN-SUFFIX,qiniu.com
@@ -88,6 +91,7 @@ DOMAIN-SUFFIX,rr.tv
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu.com
@@ -121,3 +125,4 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,zealer.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,zimuzu.tv
