@@ -116,7 +116,6 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,e.qq.com
-DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,ltsdl.qq.com
 DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
@@ -132,6 +131,8 @@ DOMAIN-SUFFIX,up-hl.3g.qq.com
 DOMAIN-SUFFIX,fusion.qq.com
 DOMAIN-SUFFIX,sdkconfig.video.qq.com
 DOMAIN-SUFFIX,iacc.qq.com
+DOMAIN-SUFFIX,lives.l.qq.com
+DOMAIN-SUFFIX,livep.l.qq.com
 DOMAIN-SUFFIX,news.l.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
 
@@ -162,6 +163,5 @@ DOMAIN-SUFFIX,oadz.com
 DOMAIN-SUFFIX,oimagea2.ydstatic.com
 DOMAIN-SUFFIX,pagechoice.net
 DOMAIN-SUFFIX,prom.gome.com.cn
-DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,wanproxy.127.net
