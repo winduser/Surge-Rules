@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,pdown.stat.360safe.com
 DOMAIN-SUFFIX,stat.360safe.com
 DOMAIN-SUFFIX,update.360safe.com
 DOMAIN-SUFFIX,yihe360.com
+
 # QQ
 DOMAIN-SUFFIX,2052.flash2-http.qq.com
 DOMAIN-SUFFIX,act.qq.com
@@ -206,6 +207,7 @@ DOMAIN-SUFFIX,win.gdt.qq.com
 DOMAIN-SUFFIX,ws.sj.qq.com
 DOMAIN-SUFFIX,wup.imtt.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
+
 ## Sina
 DOMAIN-SUFFIX,2016.sina.cn
 DOMAIN-SUFFIX,ad.sina.com.cn
@@ -325,6 +327,7 @@ DOMAIN-SUFFIX,wbapp.uve.weibo.com
 DOMAIN-SUFFIX,widget.weibo.com
 DOMAIN-SUFFIX,zc.biz.weibo.com
 DOMAIN-SUFFIX,zymo.mps.weibo.com
+
 # Ali
 DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
 DOMAIN-SUFFIX,adash-c.ut.taobao.com
@@ -340,7 +343,7 @@ DOMAIN-SUFFIX,amdc.m.taobao.com
 DOMAIN-SUFFIX,api.waptest.taobao.com
 DOMAIN-SUFFIX,apoll.m.taobao.com
 DOMAIN-SUFFIX,c-adash.m.taobao.com
-DOMAIN-SUFFIX,click.mz.simba.taobao.com
+# DOMAIN-SUFFIX,click.mz.simba.taobao.com
 DOMAIN-SUFFIX,click.simba.taobao.com
 DOMAIN-SUFFIX,click.tz.simba.taobao.com
 DOMAIN-SUFFIX,dsp.simba.taobao.com
@@ -425,6 +428,7 @@ DOMAIN-SUFFIX,strip.alicdn.com
 DOMAIN-SUFFIX,t.alimama.com
 DOMAIN-SUFFIX,ttjx-online.cn-hangzhou.log.aliyuncs.com
 DOMAIN-SUFFIX,xz-development.oss-cn-beijing.aliyuncs.com
+
 # Netease
 DOMAIN-SUFFIX,analytics.hz.netease.com
 DOMAIN-SUFFIX,mr.da.netease.com
@@ -458,6 +462,7 @@ DOMAIN-SUFFIX,img2.126.net
 DOMAIN-SUFFIX,m.analytics.126.net
 DOMAIN-SUFFIX,news.push.126.net
 DOMAIN-SUFFIX,stat.ws.126.net
+
 # Mi.com
 DOMAIN-SUFFIX,a.hl.mi.com
 DOMAIN-SUFFIX,a.stat.xiaomi.com
@@ -519,6 +524,7 @@ DOMAIN-SUFFIX,r.browser.miui.com
 DOMAIN-SUFFIX,reader.browser.miui.com
 DOMAIN-SUFFIX,security.browser.miui.com
 DOMAIN-SUFFIX,update.avlyun.sec.miui.com
+
 # YouKu
 DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com
 DOMAIN-SUFFIX,actives.youku.com
@@ -574,6 +580,7 @@ DOMAIN-SUFFIX,valt.atm.youku.com
 DOMAIN-SUFFIX,wan.youku.com
 DOMAIN-SUFFIX,ykatr.youku.com
 DOMAIN-SUFFIX,ykrec.youku.com
+
 # Baidu
 DOMAIN-SUFFIX,baidu.greenxf.cn
 DOMAIN-SUFFIX,cpro.baidu.cn
@@ -744,6 +751,7 @@ DOMAIN-SUFFIX,b.bdstatic.com
 DOMAIN-SUFFIX,mipcache.bdstatic.com
 DOMAIN-SUFFIX,su.bdstatic.com
 DOMAIN-SUFFIX,zz.bdstatic.com
+
 # Sogou
 DOMAIN-SUFFIX,123.sogou.com
 DOMAIN-SUFFIX,a1click.cpc.sogou.com
@@ -850,6 +858,7 @@ DOMAIN-SUFFIX,t.go.sohu.com
 DOMAIN-SUFFIX,txt.go.sohu.com
 DOMAIN-SUFFIX,x1.go.sohu.com
 DOMAIN-SUFFIX,xls.go.sohu.com
+
 # Block makeding.com
 DOMAIN-SUFFIX,makeding.com
 DOMAIN-SUFFIX,4009997658.com
