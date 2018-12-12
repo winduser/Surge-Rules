@@ -904,6 +904,7 @@ DOMAIN-SUFFIX,zhzzx.com
 DOMAIN-SUFFIX,ysjweb.com
 DOMAIN-SUFFIX,sxmutan.com
 DOMAIN-SUFFIX,tymsyx.com
+
 # Adobe
 DOMAIN-SUFFIX,3dns-2.adobe.com
 DOMAIN-SUFFIX,3dns-3.adobe.com
@@ -925,6 +926,7 @@ DOMAIN-SUFFIX,na2m-pr.licenses.adobe.com
 DOMAIN-SUFFIX,practivate.adobe.com
 DOMAIN-SUFFIX,wip3.adobe.com
 DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
+
 # Google
 DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,static.googleadsserving.cn
@@ -946,3 +948,6 @@ DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,ssl.google-analytics.com
 DOMAIN-SUFFIX,tpc.googlesyndication.com
 DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com
+
+# UnionPay
+DOMAIN-SUFFIX,analytics.95516.com
