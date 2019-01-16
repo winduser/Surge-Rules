@@ -2,6 +2,9 @@
 # 中国知网
 DOMAIN-KEYWORD,cnki.net
 
+## 读秀
+DOMAIN-SUFFIX,duxiu.com
+
 # 万方
 DOMAIN-KEYWORD,wanfangdata
 
