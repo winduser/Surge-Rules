@@ -32,3 +32,11 @@ DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
+
+# Sogou
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,soso.com
+DOMAIN-SUFFIX,sogoucdn.com
+
+## Sspai
+DOMAIN-SUFFIX,sspai.com

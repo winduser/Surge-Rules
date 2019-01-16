@@ -1,6 +1,8 @@
 # 此部分网站没有被 GFW 封锁，但使用代理会获得更快的速度，请选择性添加
 
 ## A
+DOMAIN-KEYWORD,accorhotels
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,archive.org
@@ -153,6 +155,7 @@ DOMAIN-SUFFIX,storify.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,starp2p.com
 DOMAIN-SUFFIX,state.gov
+DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,spike.com
 DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,soundcloud.com
