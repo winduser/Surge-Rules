@@ -1,4 +1,5 @@
 PROCESS-NAME,storedownloadd,force-remote-dns
+PROCESS-NAME,News
 USER-AGENT,com.apple.appstored*,force-remote-dns
 DOMAIN-SUFFIX,icloud.com,force-remote-dns
 DOMAIN-SUFFIX,icloud-content.com,force-remote-dns
@@ -7,6 +8,8 @@ DOMAIN-SUFFIX,aaplimg.com,force-remote-dns
 DOMAIN-SUFFIX,cdn-apple.com,force-remote-dns
 DOMAIN-SUFFIX,apple.com
 
+
+DOMAIN,hls.itunes.apple.com
 DOMAIN,beta.itunes.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN,gs.apple.com
