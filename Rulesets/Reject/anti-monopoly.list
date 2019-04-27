@@ -482,3 +482,8 @@ DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com
 
 # UnionPay
 DOMAIN-SUFFIX,analytics.95516.com
+
+## Bank of Communications
+DOMAIN-KEYWORD,getui,REJECT-TINYGIF
+DOMAIN-KEYWORD,igexin,REJECT-TINYGIF
+DOMAIN,track.bankcomm.com,REJECT
