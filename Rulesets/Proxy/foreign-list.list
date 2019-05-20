@@ -135,6 +135,10 @@ DOMAIN-SUFFIX,popo.tw
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,pandora.com
+USER-AGENT,PayPal*
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+
 
 ## R
 DOMAIN-SUFFIX,rsf.org
